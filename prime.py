@@ -1,6 +1,7 @@
 print("hello World")
 
-def product(sin,san):
-        return sin*san
+def division(sin,san):
+        return sin/san
 
-print("Product is:"f"{product(6,7)}")
+print("division is:"f"{division(6,7)}")
+
